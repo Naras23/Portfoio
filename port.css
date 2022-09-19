@@ -89,7 +89,7 @@ h4 {
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
-    border: 2px solid #f9004d;
+    border: 2px solid darkorange;
     outline: none;
     border-radius: 30px;
 }
@@ -100,7 +100,7 @@ h4 {
     outline: none;
     border: none;
     padding: 10px 30px;
-    background-color: #f9004d;
+    background-color: darkorange;
     color: azure;
     box-shadow: 0px 0px 5px #000 0px 0px 15px #858585;
     top: 6px;
@@ -157,7 +157,7 @@ h4 {
 }
 
 button {
-    background-color: #f9004d;
+    background-color: darkorange;
     color: azure;
     text-decoration: none;
     border: 2px solid transparent;
@@ -169,7 +169,7 @@ button {
 
 button {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid darkorange;
     cursor: pointer;
 }
 
@@ -211,7 +211,7 @@ button {
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: #f9004d;
+    color: darkorange;
 }
 
 h5 {
@@ -228,7 +228,7 @@ h5 {
 }
 
 .card .button {
-    background: #f9004d;
+    background: darkorange;
     color: azure;
     text-decoration: none;
     border: 5px solid transparent;
@@ -240,7 +240,7 @@ h5 {
 
 .card .button:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid darkorange;
     cursor: pointer;
 }
 
@@ -262,7 +262,7 @@ h5 {
 }
 
 .contact-me .button-two {
-    background: #f9004d;
+    background: darkorange;
     color: azure;
     text-decoration: none;
     border: 2px solid transparent;
@@ -274,7 +274,7 @@ h5 {
 
 .contact-me .button-two:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid darkorange;
     cursor: pointer;
 }
 
@@ -314,7 +314,7 @@ footer p:nth-child(2) {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f9004d;
+    background: darkorange;
     border-radius: 50%;
     margin: 22px 10px;
     color: azure;
@@ -329,7 +329,7 @@ footer p:nth-child(2) {
 
 .end {
     position: absolute;
-    color: #f9004d;
+    color: darkorange;
     bottom: 35px;
     font-size: 14px;
 }
